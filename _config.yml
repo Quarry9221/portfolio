@@ -24,34 +24,6 @@ social:
   telegram: https://t.me/VadymZolo
   twitch: https://twitch.tv/quarryck
 
-# SEO Settings
-lang: en-US
-timezone: Europe/Kyiv
-
-# SEO Tags - для кращої індексації в Google
-twitter:
-  card: summary
-  username: quarryck
-
-# Open Graph settings (для соц. мереж)
-
-# Google Analytics
-# Створи аккаунт на https://analytics.google.com і отримай ID
-# google_analytics: G-XXXXXXXXXX  # Розкоментуй і додай свій ID
-
-# Google Search Console (опціонально)
-# google_site_verification: "your-verification-code"
-
-# Build Settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
 # Plugins
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-mentions
