@@ -32,7 +32,7 @@ A Telegram bot for weather forecasting with support for Cyrillic input.
 
 ---
 
-## aКварик (private project)
+## aQuarryck (private project)
 
 A Twitch assistant bot for engaging with viewers and providing community features.  
 
