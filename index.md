@@ -1,6 +1,3 @@
-# My Projects 🚀
-
-A collection of Telegram bots and backend solutions I've developed, serving over 1,400 users across multiple platforms.
 
 ---
  
@@ -17,7 +14,13 @@ Generate customizable QR codes directly in Telegram with flexible styling option
 
 **Tech Stack:** `Python` • `python-telegram-bot` • `qrcode` • `Pillow` • `AWS`
 
-**Most Popular Use Case:** Plain text QR codes
+**Sample QR-Code Display:**
+
+![QR код](qr.png)
+```
+✅ QR код готовий!  
+🔍 Тип: 📝 Текст (локальна генерація)
+```
 
 ---
 
@@ -36,6 +39,27 @@ Comprehensive weather information system with Ukrainian locale support and flexi
 **Tech Stack:** `Python` • `aiogram 3.22` • `PostgreSQL` • `Geoapify API` • `Open-Meteo API`
 
 **Why aiogram?** Chose to explore modern bot development frameworks, supporting Ukrainian developers.
+
+**Sample Forecast Display:**
+```
+🌍 Lutsk, Volyn Oblast, Ukraine
+
+☀️ Поточна погода:
+🌡️ Температура: 9.4°C
+🌡️ Відчувається: 7.1°C
+💧 Вологість: 86%
+💨 Вітер: 10.8 kmh
+☁️ Опис: ☁️ Хмарно
+
+📅 Прогноз на найближчі дні:
+• Понеділок, 29.09: 10.6°/8.0° 🌦️ Легкий дощ
+• Вівторок, 30.09: 10.1°/8.4° ☁️ Хмарно
+• Середа, 01.10: 10.3°/6.4° 🌦️ Легкий дощ
+• Четвер, 02.10: 9.4°/4.4° 🌦️ Легкий дощ
+• П'ятниця, 03.10: 10.3°/1.0° ☁️ Хмарно
+• Субота, 04.10: 9.1°/5.2° 🌧️ Сильний дощ
+• Неділя, 05.10: 13.7°/7.4° 🌦️ Легкий дощ
+```
 
 ---
 
@@ -129,5 +153,3 @@ Seasons Played: 4
 - **Twitch:** [twitch.tv/quarryck](https://twitch.tv/quarryck)
 
 ---
-
-*Built with Python and passion for automation* 🐍
