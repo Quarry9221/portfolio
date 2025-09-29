@@ -32,6 +32,6 @@
 ---
 
 ## 📬 Контакти
-- ✉️ Email: your-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- ✉️ Email: vadym2zolotko@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/vadym-zolotko-8917811b8)  
 - 🐙 GitHub: [github.com/Quarry9221](https://github.com/Quarry9221)
