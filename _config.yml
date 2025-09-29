@@ -1,4 +1,15 @@
-title: "Vadym Zolotko — Portfolio"
-description: "Telegram Bots Developer | Backend Engineer"
-theme: jekyll-theme-cayman
+title: "Vadym Zolotko"
+description: "Backend Developer specializing in Telegram Bots, FastAPI & Multi-platform Integration"
+theme: jekyll-theme-minimal
+logo: /assets/img/logo.png  # якщо додаси лого
+
 show_downloads: false
+
+# Navigation
+navigation:
+  - title: Projects
+    url: /#projects
+  - title: GitHub
+    url: https://github.com/Quarry9221
+  - title: Contact
+    url: mailto:your-email@example.com
