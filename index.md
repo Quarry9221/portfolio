@@ -39,7 +39,7 @@ Comprehensive weather information system with Ukrainian locale support and flexi
 
 ---
 
-## 🐟 aQuarryck
+## 🥕 aQuarryck
 **Twitch Community Engagement Platform** • 1,100+ Users • *Private Project*
 
 Cross-platform interactive bot for [twitch.tv/quarryck](https://twitch.tv/quarryck) community, integrating Twitch, Discord, and Telegram.
@@ -79,6 +79,33 @@ Notifications Enabled: Yes
 Seasons Played: 4
 ```
 
+**Sample User Profile:**
+```
+👤 Profile quarryck
+🎭 Account Created: 28.09.2014
+⌛️ Account Age: 10 y. 11 m. 24 d.
+🏆 Level: Platinum
+⭐️ Status: Subscriber
+💰 Economy:
+- Channel Points Spent: 3,750
+- Carrot Size: 55 cm
+- Credits: 88
+- Coins: 110,561
+🏅 Achievements:
+- Total: 12
+- Carrot: 0
+- Channel: 0
+- Scam: 0
+📊 Activity:
+- Total Watch Time: 3,526 h 40 m
+- This Month: 367 h 10 m
+- Messages: 2,451
+- Messages This Month: 186
+- Chat Commands: 0
+- Clips Created: 59
+- Clips This Month: 0
+```
+
 **Tech Stack:** `Python` • `FastAPI` • `PostgreSQL` • `Twitch API` • `Discord API` • `Telegram API`
 
 ---
@@ -87,8 +114,20 @@ Seasons Played: 4
 - **Total Users Served:** 1,450+
 - **Platforms Integrated:** Telegram, Twitch, Discord
 - **Active Deployments:** AWS, 24/7 availability
+- **Total Messages Processed:** 2,450+
+- **Watch Time Tracked:** 3,500+ hours
+- **QR Codes Generated:** Thousands
+- **Weather Forecasts Delivered:** Daily to 200+ users
 - **Development Focus:** User experience, cross-platform integration, community engagement
 
 ---
 
-*Explore more on [GitHub](https://github.com/Quarry9221) • Built with Python and passion for automation*
+## 🔗 Connect With Me
+
+- **GitHub:** [@Quarry9221](https://github.com/Quarry9221)
+- **Telegram:** [@quarryck](https://t.me/quarryck)
+- **Twitch:** [twitch.tv/quarryck](https://twitch.tv/quarryck)
+
+---
+
+*Built with Python and passion for automation* 🐍
