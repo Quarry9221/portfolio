@@ -34,7 +34,6 @@ twitter:
   username: quarryck
 
 # Open Graph settings (для соц. мереж)
-og_image: /assets/images/og-image.png  # Додай картинку 1200x630px для превью
 
 # Google Analytics
 # Створи аккаунт на https://analytics.google.com і отримай ID
@@ -56,53 +55,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-mentions
-
-# Sass/SCSS settings
-sass:
-  style: compressed
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - .gitignore
-  - README.md
-  - LICENSE
-
-# Include
-include:
-  - _pages
-
-# Collections (якщо захочеш додати блог або окремі сторінки)
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Vadym Zolotko"
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-
-# Performance
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
