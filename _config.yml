@@ -9,5 +9,15 @@ author:
   github: Quarry9221
   telegram: quarryck
   twitch: quarryck
-  location: "Mukachevo, Ukraine"
-  email: ""
+  location: "Kyiv, Ukraine"
+  email: "vadym2zolotko@gmail.com"
+
+  social:
+  github: https://github.com/Quarry9221
+  telegram: https://t.me/vadymZolo
+  twitch: https://twitch.tv/quarryck
+  markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
