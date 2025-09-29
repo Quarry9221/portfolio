@@ -1,15 +1,107 @@
+# Site Settings
 title: "Vadym Zolotko"
-description: "Backend Developer specializing in Telegram Bots, FastAPI & Multi-platform Integration"
-theme: jekyll-theme-minimal
-logo: /assets/img/logo.png  # якщо додаси лого
+subtitle: "Backend Developer & Bot Engineer"
+description: "Python Developer specializing in Telegram Bots, FastAPI & Multi-platform Integration. Building scalable solutions for 1,450+ users across Telegram, Twitch, and Discord."
+url: "https://quarry9221.github.io"
+baseurl: ""
 
+# Theme
+theme: jekyll-theme-slate
 show_downloads: false
 
-# Navigation
-navigation:
-  - title: Projects
-    url: /#projects
-  - title: GitHub
-    url: https://github.com/Quarry9221
-  - title: Contact
-    url: mailto:your-email@example.com
+# Author Information
+author:
+  name: Vadym Zolotko
+  github: Quarry9221
+  telegram: quarryck
+  twitch: quarryck
+  location: "Kyiv, Ukraine"
+  email: "vadym2zolotko@gmail.com"  # Додай свій email якщо хочеш
+
+# Social Links (будуть відображатись в футері)
+social:
+  github: https://github.com/Quarry9221
+  telegram: https://t.me/VadymZolo
+  twitch: https://twitch.tv/quarryck
+
+# SEO Settings
+lang: en-US
+timezone: Europe/Kyiv
+
+# SEO Tags - для кращої індексації в Google
+twitter:
+  card: summary
+  username: quarryck
+
+# Open Graph settings (для соц. мереж)
+og_image: /assets/images/og-image.png  # Додай картинку 1200x630px для превью
+
+# Google Analytics
+# Створи аккаунт на https://analytics.google.com і отримай ID
+# google_analytics: G-XXXXXXXXXX  # Розкоментуй і додай свій ID
+
+# Google Search Console (опціонально)
+# google_site_verification: "your-verification-code"
+
+# Build Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-mentions
+
+# Sass/SCSS settings
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - README.md
+  - LICENSE
+
+# Include
+include:
+  - _pages
+
+# Collections (якщо захочеш додати блог або окремі сторінки)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Vadym Zolotko"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Performance
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
