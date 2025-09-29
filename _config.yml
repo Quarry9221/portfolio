@@ -1,9 +1,9 @@
-title: "Vadym Zolotko — Portfolio"
+title: "Vadym Zolotko"
 description: "Telegram Bots Developer | Backend Engineer"
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-
+repository: Quarry9221/portfolio
 author:
   name: Vadym Zolotko
   github: Quarry9221
