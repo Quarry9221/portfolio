@@ -1,29 +1,4 @@
-# Site Settings
-title: "Vadym Zolotko"
-subtitle: "Backend Developer & Bot Engineer"
-description: "Python Developer specializing in Telegram Bots, FastAPI & Multi-platform Integration. Building scalable solutions for 1,450+ users across Telegram, Twitch, and Discord."
-url: "https://quarry9221.github.io"
-baseurl: ""
-
-# Theme
-remote_theme: pages-themes/cayman@v0.2.0
-
-
-# Author Information
-author:
-  name: Vadym Zolotko
-  github: Quarry9221
-  telegram: quarryck
-  twitch: quarryck
-  location: "Kyiv, Ukraine"
-  email: "vadym2zolotko@gmail.com"  # Додай свій email якщо хочеш
-
-# Social Links (будуть відображатись в футері)
-social:
-  github: https://github.com/Quarry9221
-  telegram: https://t.me/VadymZolo
-  twitch: https://twitch.tv/quarryck
-
-# Plugins
-plugins:
-  - jekyll-remote-theme
+title: "Vadym Zolotko — Portfolio"
+description: "Telegram Bots Developer | Backend Engineer"
+theme: jekyll-theme-cayman
+show_downloads: false
