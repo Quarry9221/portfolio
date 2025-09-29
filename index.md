@@ -3,7 +3,7 @@
 A collection of Telegram bots and backend solutions I've developed, serving over 1,400 users across multiple platforms.
 
 ---
-
+ 
 ## 🔲 [QuaRrCode](https://github.com/Quarry9221/QuaRrCode)
 **QR Code Generator Bot** • 150+ Users
 
